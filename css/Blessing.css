@@ -59,7 +59,7 @@ audio {
   height: 27rem;
   width: 35rem;
   text-align: right;
-  transform: rotate(-5deg);
+  /* transform: rotate(-5deg); */
   position: absolute;
   right: 35rem;
 }
@@ -78,7 +78,7 @@ audio {
 .img2 {
   width: 25;
   height: 32.5rem;
-  transform: rotate(5deg);
+  /* transform: rotate(5deg); */
 }
 
 /* thired paragraph content */
@@ -106,12 +106,12 @@ audio {
 
 .img3 {
   height: 22rem;
-  width: 36.5rem;
+  width: 30.5rem;
 }
 
 .img4 {
   height: 23rem;
-  width: 35rem;
+  width: 30.5rem;
 }
 
 /* forth paragraph content */
@@ -128,21 +128,20 @@ audio {
 }
 
 .img6 {
-  width: 25.23rem;
+  width: 27.23rem;
   height: 35.625rem;
   position: absolute;
   right: 0;
   left: 45rem;
   top: 23rem;
-  transform: rotate(5deg);
 }
 
 .button {
   display: block;
   position: absolute;
   margin: 0 auto 2rem auto;
-  color: black;
-  background-color: #ffd700;
+  color: white;
+  background-color: #6f4b33;
   font-weight: bold;
   bottom: -1rem;
   left: 16rem;
@@ -161,7 +160,7 @@ audio {
 
 .no-img {
   height: 26.4rem;
-  width: 42rem;
+  width: 35rem;
 }
 
 .img-con {
@@ -601,6 +600,7 @@ audio {
   .img6 {
     left: 10rem;
     top: -3rem;
+    /* width: 500px; */
   }
 }
 
@@ -654,6 +654,7 @@ audio {
   .img6 {
     left: 10rem;
     top: -3rem;
+    /* width: 500px; */
   }
 }
 
