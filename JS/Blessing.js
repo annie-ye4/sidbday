@@ -35,5 +35,5 @@ $(window).on("load", function () {
 
 
 $("button").click(function(){
-  window.location.replace("CardsPage.html");
+  window.location.replace("surprise.html");
 });
