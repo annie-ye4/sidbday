@@ -7,7 +7,7 @@ $(function () {
 document.querySelector("button").addEventListener("click", function () {
   var password = document.querySelector("input").value;
   if (password === "9102023") {
-    window.location.replace("ConnectionPage.html");
+    window.location.replace("connectionPage.html");
   } else {
     var rndNamber = Math.floor(Math.random() * 3) + 1;
     switch (rndNamber) {
